@@ -9,3 +9,8 @@ written in C for learning and interview preparation.
 - Queue
 - Linked List
 - Searching & Sorting
+
+## How to Run
+```bash
+gcc filename.c
+./a.out
